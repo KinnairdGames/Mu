@@ -8,7 +8,7 @@ Rules here: https://www.riograndegames.com/wp-content/uploads/2013/02/Mu-Lots-Mo
 1) Mu_Fronts.pdf
 2) Mu_Backs.pdf
 
-Print duplex or equivalent, flipping on long side
+Updated with numbers in all four corners. Print duplex or equivalent, flipping on long side
 
 ## 3D components
 1) Mu_Chief.stl x2 - for denoting the Chief, and chosen trump
