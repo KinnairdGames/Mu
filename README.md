@@ -1,4 +1,5 @@
-# PnP files for Mü, a trick-taking game by Frank Nestel
+# PnP files for Mü
+A trick-taking game by Doris Matthäus and Frank Nestel
 
 ![Picture showing the completed pnp of Mu](PXL_20230418_091608073.jpg)
 
